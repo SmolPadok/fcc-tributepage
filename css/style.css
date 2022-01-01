@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Eczar:wght@400;700&display=swap');
+
+h1 {
+    font-family: 'Eczar', serif;
+    font-weight: 700;
+}
+
+p {
+    font-family: 'Eczar', serif;
+    font-weight: 400;
+}
